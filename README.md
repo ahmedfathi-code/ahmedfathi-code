@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Ahmed Fathy
 
-<!--
-**ahmedfathi-code/ahmedfathi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer based in Cairo, Egypt. I build secure, reliable, well-tested REST APIs and data-heavy backend services with Spring Boot.
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and frameworks:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate
+
+**Data and messaging:** PostgreSQL, MySQL, ClickHouse, Redis, Apache Kafka
+
+**Testing and tooling:** JUnit 5, Mockito, Testcontainers, Docker, Maven, Git, CI/CD
+
+### Featured project
+
+**[store-api](https://github.com/ahmedfathi-code/store-api)**: a secure product catalog REST API with JWT refresh-token rotation and real logout, Redis-based token revocation, rate limiting against brute-force logins, ADMIN/USER roles, Flyway migrations, and Docker Compose.
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/ahmed-fathy-1656a2276) | iamahmedfathii@gmail.com
